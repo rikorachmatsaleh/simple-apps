@@ -1,5 +1,5 @@
 ## PULL IMAGE
-FROM NODE:18.16.0
+FROM node:18.16.0
 
 ## DIR KERJA
 WORKDIR /apps
